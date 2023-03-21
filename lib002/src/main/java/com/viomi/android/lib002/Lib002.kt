@@ -6,5 +6,5 @@ package com.viomi.android.lib002
  * @createdAt 2023/3/21
  */
 object Lib002 {
-    val name = "Lib002"
+    val name = "Lib002.Ver.1.2.0"
 }
